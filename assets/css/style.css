@@ -1,0 +1,125 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-size: 1.5rem;
+}
+.section {
+	position: relative;
+	width: 100%;
+	margin-top: 15px;
+	max-width:600px;
+}
+.main {
+	width: 100%;
+}
+.allWords {
+	position: absolute;
+}
+.linkWords {
+	position: absolute;
+	text-decoration: none;
+	font-weight: bold;
+	color: #942c61;
+}
+.linkWords:hover {
+	color: #93892c;
+}
+footer {
+	position: relative;
+	margin-bottom: 200px;
+	font-size: 1rem;
+}
+.sources {
+	position: absolute;
+	font-size: 0.8rem;
+	top: 90%;
+}
+.logo {
+	position: absolute;
+	width: 10%;
+	left: 85%;
+	top: 90%;
+	margin-top: 0px;
+}
+#p1Words1 {
+	top: 2%;
+	left: 6%;
+	}
+#p1Words2 {
+	top: 36%;
+	left: 40%;
+}
+#turkey {
+	top: 25%;
+	left: 23%;
+}
+#iraq {
+	top: 40%;
+	left: 83%;
+}
+#jordan {
+	top: 77%;
+	left: 36%;
+}
+#egypt {
+	top: 85%;
+	left: 5%;
+}
+#nafrica {
+	top: 75%;
+	left: 3%;
+}
+#lebanon {
+	top: 56%;
+	left: 8%;
+}
+#p2Words1 {
+	top: 62%;
+	left: 45%;
+	}
+#p2Words2 {
+	top: 69%;
+	left: 45%;
+	color: #942c61;
+    }
+.buttons {
+	position: relative;
+	margin-bottom: 50px;
+	}
+#home2 {
+	position: absolute;
+	width: 12%;
+	left: 3%;
+}
+#next2 {
+	position: absolute;
+	width: 12%;
+	left: 85%
+}
+#home2:hover {
+	width: 13%;
+}
+#next2:hover {
+	width: 13%;
+}
+#p3Words1 {
+	top: 62%;
+	left: 45%;
+	}
+#p3Words2 {
+	top: 69%;
+	left: 45%;
+	color: #942c61;
+    }
+
+#back2 {
+	position: absolute;
+	width: 12%;
+	left: 40%;
+}
+
+#back2:hover {
+	width: 13%;
+}
+
+	
