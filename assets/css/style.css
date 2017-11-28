@@ -45,9 +45,16 @@ footer {
 	top: 2%;
 	left: 6%;
 	}
+#p1click1 {
+	top: 12%;
+	left: 6%;
+	font-size: 1rem;
+	color: gray;
+}	
 #p1Words2 {
-	top: 36%;
-	left: 40%;
+	top: 38%;
+	left: 46%;
+	font-size: 1rem;
 }
 #turkey {
 	top: 25%;
@@ -66,12 +73,12 @@ footer {
 	left: 5%;
 }
 #nafrica {
-	top: 75%;
-	left: 3%;
+	top: 69%;
+	left: 1%;
 }
 #lebanon {
-	top: 56%;
-	left: 8%;
+	top: 55%;
+	left: 4%;
 }
 #p2Words1 {
 	top: 62%;
@@ -103,11 +110,11 @@ footer {
 	width: 13%;
 }
 #p3Words1 {
-	top: 62%;
+	top: 42%;
 	left: 45%;
 	}
 #p3Words2 {
-	top: 69%;
+	top: 49%;
 	left: 45%;
 	color: #942c61;
     }
@@ -121,5 +128,39 @@ footer {
 #back2:hover {
 	width: 13%;
 }
-
-	
+#p4Words1 {
+	top: 45%;
+	left: 56%;
+	}
+#p4Words2 {
+	top: 52%;
+	left: 56%;
+	color: #942c61;
+    }
+#p5Words1 {
+	top: 42%;
+	left: 65%;
+	}
+#p5Words2 {
+	top: 49%;
+	left: 65%;
+	color: #942c61;
+    }
+#p6Words1 {
+	top: 60%;
+	left: 35%;
+	}
+#p6Words2 {
+	top: 67%;
+	left: 35%;
+	color: #942c61;
+    }
+#p6Words3 {
+	top: 47%;
+	left: 5%;
+	}
+#p6Words4 {
+	top: 54%;
+	left: 5%;
+	color: #942c61;
+    }
